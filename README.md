@@ -11,13 +11,15 @@ Beyond just punching in and out, my mission is bigger. I'm all about ramping up 
 So yeah, that's me—Antonio, on a mission to sprinkle a little joy and efficiency into the daily grind for everyone around me.
 
 ---
-
+### More About Me
 - 🌍 I'm chilling in Geneva, Switzerland 🇨🇭.
 - ✉️ Shoot me a message anytime on discord at [@tokyoboy](https://discord.com/users/tokyoboy). I'm always up for a chat!
 - 🧠 Currently delving into the fascinating realms of Machine Learning and AI. It's like unlocking the secrets of the universe, one algorithm at a time.
 - ⚡ When I'm not diving deep into tech, you'll catch me working on personal projects that keep my skills sharp and my creativity flowing. Random? Maybe. Exciting? Absolutely.
 
 So yeah, that's me—living life, learning, and always up for the next big adventure! 🚀
+
+---
 
 ### Skills
 
@@ -41,15 +43,9 @@ So yeah, that's me—living life, learning, and always up for the next big adven
 
 ### Socials
 
-
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="8" height="8" /> [TokyoBoy](https://github.com/tokyoboy-vs)
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="12" height="12" /> [@tokyoboy](https://discord.com/users/tokyoboy)
-  <a href="https://www.github.com/tokyoboy-vs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="8" height="8" />
-  </a>
-  <a href="https://www.linkedin.com/in/antonio-da-paixao-teixeira-64640a200" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
+- 
 
 ### Badges
 
