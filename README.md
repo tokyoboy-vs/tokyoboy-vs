@@ -3,8 +3,11 @@
 ### Software Developer
 
 Hey there, I'm Antonio a 23 years old young man. Currently, I'm knee-deep in an apprenticeship journey, splitting my time—40% hitting the books at school and 60% diving into the bustling world of work. You'll find me tucked away in a manufacturer's domain, specializing in aerospace and energy components.
+
 My gig? Well, I'm the one behind the scenes, coding tools that lighten the load for my fellow factory folks. It's all about making their lives a bit easier, you know?
+
 Beyond just punching in and out, my mission is bigger. I'm all about ramping up the quality of our work environment. I want every person in that factory to feel valued and pumped about what they do. Simplifying things, making each day smoother—it's what gets me going.
+
 So yeah, that's me—Antonio, on a mission to sprinkle a little joy and efficiency into the daily grind for everyone around me.
 
 - 🌍 I'm chilling in Geneva, Switzerland 🇨🇭.
