@@ -11,7 +11,7 @@ Beyond just punching in and out, my mission is bigger. I'm all about ramping up 
 So yeah, that's me—Antonio, on a mission to sprinkle a little joy and efficiency into the daily grind for everyone around me.
 
 ---
-### More About Me
+### About Me
 - 🌍 I'm chilling in Geneva, Switzerland 🇨🇭.
 - ✉️ Shoot me a message anytime on discord at [@tokyoboy](https://discord.com/users/tokyoboy). I'm always up for a chat!
 - 🧠 Currently delving into the fascinating realms of Machine Learning and AI. It's like unlocking the secrets of the universe, one algorithm at a time.
@@ -22,7 +22,6 @@ So yeah, that's me—living life, learning, and always up for the next big adven
 ---
 
 ### Skills
-
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): 🚀 Started my programming journey with it, so you could say we're pretty tight.
 
 - [Node.js](https://nodejs.org/en/): 🌟 Like a sibling to JavaScript; been with me since the start.
@@ -42,13 +41,10 @@ So yeah, that's me—living life, learning, and always up for the next big adven
 - [Linux](https://www.linux.org): 🐧 Newbie in this realm, but already picking up lots. Good for now, but always room for improvement.
 
 ### Socials
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="8" height="8" /> [TokyoBoy](https://github.com/tokyoboy-vs)
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="12" height="12" /> [@tokyoboy](https://discord.com/users/tokyoboy)
-- 
 
 ### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/tokyoboy-vs" align="center">
