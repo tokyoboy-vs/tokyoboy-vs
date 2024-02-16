@@ -42,12 +42,7 @@ So yeah, that's me—living life, learning, and always up for the next big adven
 ### Socials
 
 
-- <p align="left">
-  <a href="https://discord.com/users/tokyoboy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="12" height="12" />
-    @tokyoboy
-  </a>
-</p>
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="12" height="12" /> [@tokyoboy](https://discord.com/users/tokyoboy)
   <a href="https://www.github.com/tokyoboy-vs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="8" height="8" />
   </a>
