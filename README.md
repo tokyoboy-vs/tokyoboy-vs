@@ -10,6 +10,8 @@ Beyond just punching in and out, my mission is bigger. I'm all about ramping up 
 
 So yeah, that's me—Antonio, on a mission to sprinkle a little joy and efficiency into the daily grind for everyone around me.
 
+---
+
 - 🌍 I'm chilling in Geneva, Switzerland 🇨🇭.
 - ✉️ Shoot me a message anytime on discord at [@tokyoboy](https://discord.com/users/tokyoboy). I'm always up for a chat!
 - 🧠 Currently delving into the fascinating realms of Machine Learning and AI. It's like unlocking the secrets of the universe, one algorithm at a time.
