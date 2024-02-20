@@ -23,21 +23,13 @@ So yeah, that's me—living life, learning, and always up for the next big adven
 
 ### Skills
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="12" height="12" /> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Started my programming journey with it, so you could say we're pretty tight.
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="12" height="12" /> [Node.js](https://nodejs.org/en/): Like a sibling to JavaScript; been with me since the start.
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12" /> [Python](https://www.python.org/): Got a Discord bot running smoothly with Python; we make a good team.
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="12" height="12" /> [Raspberry Pi](https://www.raspberrypi.org/): Familiar territory since it's Python-based. Haven't tinkered with it recently, but might dive back in soon—it's got potential!
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="12" height="12" />[Swift](https://developer.apple.com/swift/): Played around with it for fun, but didn't dive too deep since I didn't have a project in mind.
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="12" height="12" /> [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) and <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="12" height="12" /> [CSS3](https://www.w3.org/TR/CSS/#css): Used it extensively, though it's not my favorite. Takes time, and I prefer more engaging stuff.
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="12" height="12" /> [MySQL](https://www.mysql.com/): Easy peasy, but not as exciting as some other languages. Still, it's better than HTML and CSS!
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="12" height="12" /> [PHP](https://www.php.net/): Dabbled in it a bit, but it's been a while. Might need a refresher on the latest versions.
-
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="12" height="12" /> [Linux](https://www.linux.org): Newbie in this realm, but already picking up lots. Good for now, but always room for improvement.
 
 ---
