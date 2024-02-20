@@ -47,3 +47,6 @@ So yeah, that's me—living life, learning, and always up for the next big adven
 <b>My GitHub Stats</b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tokyoboy-vs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tokyoboy-vs's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyoboy-vs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=tokyoboy-vs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tokyoboy-vs's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyoboy-vs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
